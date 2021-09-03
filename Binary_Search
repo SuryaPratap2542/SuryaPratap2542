@@ -1,0 +1,18 @@
+def binary_search(arr,element):
+    size = len(arr)
+    low = 0
+    high = size-1
+    
+    while(low <= high):
+        mid = (low + high)//2 
+        if(element == arr[mid]):
+            return mid
+        elif(element > arr[mid]):
+            low = mid +1
+        elif(element < arr[mid]):
+            high = mid -1
+    return -1
+
+a = [5,13,44,58,99]
+x = binary_search(a,44)
+print(x)
