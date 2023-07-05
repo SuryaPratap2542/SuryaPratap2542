@@ -1,72 +1,37 @@
-# Profile
-this is my Git hub Account
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-
-<a href="https://twitter.com/suryapratp788">
-  <img align="left" alt="Surya Pratap | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/surya-pratap-singh-98a37b21b/">
-  <img align="left" alt="Surya_pratap LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/suryapratap6473/">
-  <img align="left" alt="Surya_pratap Insta" width="22px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />
-</a>
-<a href="https://www.youtube.com/c/DreamPoint">
-  <img align="left" alt="Surya_pratap Youtube" width="22px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />
-</a>
-
-
-![](https://visitor-badge.glitch.me/badge?page_id=warriorwizard.warriorwizard)
-
-<br />
-
-hi, i'm [Surya Pratap Singh](https://www.youtube.com/c/DreamPoint), a passionate self-taught Web developer and a YouTuber from India. my passion for software lies with dreaming up ideas and making them come true with elegant projects. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+# Surya Pratap Singh
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-sky?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/suryapratp788)](https://twitter.com/suryapratp788)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/DreamPoint)](https://www.youtube.com/c/DreamPoint)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/suryapratap6473/)](https://www.instagram.com/suryapratap6473/)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/suryapratap2542/)](https://leetcode.com/suryapratap2542/)
+[![Codechef Badge](https://img.shields.io/badge/-Codechef-lightgrey?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/surya_pratap04/)](https://www.codechef.com/users/surya_pratap04)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=website&logoColor=white&link=https://yourportfolio.com/)](https://suryapratap2542.github.io/Portfolio/#home)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/your_username/)](https://www.facebook.com/profile.php?id=100029290171764)
 
 
 
-```
-const Surya = {
-    pronouns: "He" | "Him",
-    code: [ "Python", "JAVA", "HTML", "CSS", "JAVASCRIPT"],
-    askMeAbout: ["Web Development", "Tech", "OOPS"],
-    technologies: {
-    	machine learing:{
-	    framework: ["Django", "Open-CV"]
-	}
-        frontEnd: {
-            js: ["React","MediaQuery" ,"jQuery"],
-            css: ["materialize", "saas", "bootstrap, "materialUI", "Chakra", "Tailwind"]
-        },
-        backEnd: {
-            python: ["django"]
-        },
-        version control: ["Git", "GitHub"],
-        API: ["REST API"],
-    },
-    toolsUsing: ["Photoshop", "Bootstrap Studio", ],
-    workplace: {
-                college: 'NIET',
-                course: 'B-Tech',
-		specialization : 'CSE'
-    },
-    architecture: ["Progressive web applications", "Single page applications"],
-    currentProject: "I am developing an E-commerce Webstie",
-};
-```
+Hey there! I'm Surya Pratap Singh, a passionate self-taught web developer and YouTuber from India. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
 
+## 🎥 YouTube
 
+I create educational content on my YouTube channel, where I share tutorials, tips, and tricks related to web development. Join my community and learn with me on [YouTube](https://www.youtube.com/c/DreamPoint). Don't forget to subscribe to stay updated with the latest videos!
 
+## 💼 Professional Background
 
+I have a strong interest in open-source development and actively contribute to various projects. I'm a firm believer in collaboration and knowledge sharing. Let's build and learn together!
 
-<!--   <img align="right" alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="500" height="320" /> -->
-  
-- 💼 any freelance work? do reach, [email](mailto:suryapratap2542@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+## ⚡ Technologies and Skills
 
-**languages and tools:**  
+I work with a variety of technologies and have expertise in:
 
+- Front-end: HTML, CSS, JavaScript, React
+- Back-end: Python, Django
+- Database: MySQL, PostgreSQL
+- Version Control: Git, GitHub
+- UI/UX Design: Adobe XD, Figma
+- Video Editing: Adobe Premiere Pro, Final Cut Pro
+
+**Languages and Tools:**   
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -82,6 +47,21 @@ const Surya = {
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
+## 🌟 Achievements
+
+- Created and maintained several web projects, including e-commerce websites, blogging platforms, and portfolio sites.
+- Received positive feedback and appreciation from the developer community for my YouTube tutorials and coding challenges.
+
+## 🌐 Let's Connect
+
+I'm always excited to connect with fellow developers and enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/) or [GitHub](https://github.com/surya-dream-point). Let's collaborate, learn, and build amazing things together!
+
+Thank you for visiting my profile. Happy coding!
+
+<img align="right" alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="500" height="320" /> 
+
+ - 💼 Any freelance work? Feel free to [contact me](mailto:suryapratap2542@gmail.com) :) 
+- 💬 Ask me about anything; I am happy to help! 
 
 ![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake.svg)
  
