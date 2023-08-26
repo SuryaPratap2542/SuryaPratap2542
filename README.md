@@ -60,7 +60,10 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
 - 💼 Any freelance work? Feel free to [contact me](mailto:suryapratap2542@gmail.com) :) 
 - 💬 Ask me about anything; I am happy to help! 
 
-<img align="right" alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="800" height="350" /> 
+<div align="center">
+  <img alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="80%" height="350" />
+</div>
+
 
 <picture>
   <source
@@ -80,7 +83,7 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
 📈 my github stats  
 
 <p align="center">
-<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=SuryaPratap2542&theme=gotham" />
+<!-- <img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=SuryaPratap2542&theme=gotham" /> -->
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPratap2542&theme=gotham" />
 	<br/>
