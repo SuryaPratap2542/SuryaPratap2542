@@ -57,36 +57,38 @@ I work with a variety of technologies and have expertise in:
 
 I'm always excited to connect with fellow developers and enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/) or [GitHub](https://github.com/surya-dream-point). Let's collaborate, learn, and build amazing things together!
 
-Thank you for visiting my profile. Happy coding!
-
-<img align="right" alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="500" height="320" /> 
-
- - 💼 Any freelance work? Feel free to [contact me](mailto:suryapratap2542@gmail.com) :) 
+- 💼 Any freelance work? Feel free to [contact me](mailto:suryapratap2542@gmail.com) :) 
 - 💬 Ask me about anything; I am happy to help! 
 
-![Snake animation](https://github.com/warriorwizard/warriorwizard/blob/output/github-contribution-grid-snake.svg)
- 
+<img align="right" alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="800" height="350" /> 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 📈 my github stats  
-<!---
-<p>
-<snap> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&show_icons=true&theme=gotham&layout=compact&hide=jupyter%20notebook" alt="Surya Pratap" />
-<snap> <img align="right" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" height="165px" alt="Surya Pratap" />
- </p>
---->
+
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" />
-	 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPratap2542&theme=gotham" />
+<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=SuryaPratap2542&theme=gotham" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPratap2542&theme=gotham" />
 	<br/>
-	
 <img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&hide=jupyter%20notebook" />
-<img width="69.8%" src="https://activity-graph.herokuapp.com/graph?username=SuryaPratap2542&theme=gotham" />	
 </p>
-<p>	Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-
-
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-<img height="100%" width="100%" alt="Bottom" src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/>
+<img height="100%" width="100%" alt="Bottom"  src="https://github.com/warriorwizard/warriorwizard/blob/main/bottom_header.svg"/>
 
+Thank you for visiting my profile. Happy coding!
