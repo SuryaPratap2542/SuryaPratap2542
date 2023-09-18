@@ -6,7 +6,7 @@
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/suryapratap2542/)](https://leetcode.com/suryapratap2542/)
 [![Codechef Badge](https://img.shields.io/badge/-Codechef-lightgrey?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/surya_pratap04/)](https://www.codechef.com/users/surya_pratap04)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=website&logoColor=white&link=https://yourportfolio.com/)](https://suryapratapsingh.netlify.app/#home)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/your_username/)](https://www.facebook.com/profile.php?id=100029290171764)
+
 
 
 
