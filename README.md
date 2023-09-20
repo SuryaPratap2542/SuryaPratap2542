@@ -93,7 +93,7 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
 <img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&hide=jupyter%20notebook" />
 </p>
 
-![](./profile-3d-contrib/profile-night-green.svg)
+![](./profile-night-rainbow.svg)
 
 
 
