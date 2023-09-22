@@ -1,4 +1,4 @@
-# Surya Pratap Singh
+# <h1 style="color: blue;">Surya Pratap Singh</h1>
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-teal?style=for-the-badge&logo=font-awesome&logoColor=white&link=https://yourportfolio.com/)](https://suryapratapsingh.netlify.app/#home)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)
