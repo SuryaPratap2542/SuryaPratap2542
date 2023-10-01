@@ -86,11 +86,10 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
 📈 my github stats  
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPratap2542&theme=gotham" />
-
-	<br/>
-<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&hide=jupyter%20notebook" />
+	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=SuryaPratap2542&show_icons=true&theme=gotham" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SuryaPratap2542&theme=gotham" />
+		<br/>
+	<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&hide=jupyter%20notebook" />
 </p>
 
 ![](./profile-night-rainbow.svg)
