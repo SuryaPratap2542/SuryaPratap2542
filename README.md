@@ -9,10 +9,6 @@
 [![Codechef Badge](https://img.shields.io/badge/-Codechef-lightgrey?style=for-the-badge&logo=codechef&logoColor=white&link=https://www.codechef.com/surya_pratap04/)](https://www.codechef.com/users/surya_pratap04)
 
 
-
-
-
-
 Hey there! I'm Surya Pratap Singh, a passionate self-taught web developer and YouTuber from India. I love bringing my ideas to life through elegant projects and paying close attention to the user experience, architecture, and code quality.
 
 ## 🎥 YouTube
