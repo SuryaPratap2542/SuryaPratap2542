@@ -1,4 +1,3 @@
-<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
 <img src="./assets/borderseparator.gif" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
@@ -6,6 +5,8 @@
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
 <img src="./assets/borderseparator.gif" width="100%"/>
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-teal?style=for-the-badge&logo=font-awesome&logoColor=white&link=https://yourportfolio.com/)](https://suryapratapsingh.netlify.app/#home)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)
@@ -64,7 +65,18 @@ I work with a variety of technologies and have expertise in:
 I'm always excited to connect with fellow developers and enthusiasts. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/) or [GitHub](https://github.com/surya-dream-point). Let's collaborate, learn, and build amazing things together!
 
 - 💼 Any freelance work? Feel free to [contact me](mailto:suryapratap2542@gmail.com) :) 
-- 💬 Ask me about anything; I am happy to help! 
+- 💬 Ask me about anything; I am happy to help!
+
+  <h2> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+  <br>
+  
+  <img src="https://github-readme-stats-SuryaPratap2542.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+
+  <a href="https://wakatime.com/@godkingjay" target="_blank">
+    <img src="https://github-readme-stats-SuryaPratap2542.vercel.app/api/wakatime?username=SuryaPratap2542&theme=gotham&layout=compact" alt="Wakatime Coding Time" width="540px">
+  </a>
+  <br>
 
 <div align="center">
   <img alt="GIF" src="https://github.com/warriorwizard/warriorwizard/blob/main/code.gif?raw=true" width="80%" height="350" />
@@ -94,6 +106,12 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
 		<br/>
 	<img width="25.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaPratap2542&theme=gotham&hide=jupyter%20notebook" />
 </p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaPratap2542&custom_title=Surya's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Surya Pratap Github Activity Graph" width="100%">
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuryaPratap2542&custom_title=Surya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=32CD32&line=32CD32&point=FFFFFF&area_color=32CD32&title_color=32CD32&area=true" alt="Surya Pratap Github Activity Graph" width="100%">
+</div>
 
 ![](./profile-night-rainbow.svg)
 
