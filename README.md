@@ -36,22 +36,10 @@ I work with a variety of technologies and have expertise in:
 - UI/UX Design: Adobe XD, Figma
 - Video Editing: Filmora, Kinemaster
 
-**Languages and Tools:**   
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" src="https://github.com/SuryaPratap2542/SuryaPratap2542/assets/89827931/61016ad0-4989-46ad-9b51-e61fce883a4f"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+<img src="https://skillicons.dev/icons?i=py,java,django,react,vite,mysql,html,css,js,sass,bootstrap,tailwind,materialui,mongodb,git,github,githubactions,svg,eclipse,vscode,netlify,flm" alt="skills logos" /> <br> 
+  <h3> <strong> Planning to Learn </strong></h3>
+  <img src="https://skillicons.dev/icons?i=angular,docker,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="skills planning to learn logos">
 
 ## 🌟 Achievements
 
@@ -68,8 +56,6 @@ I'm always excited to connect with fellow developers and enthusiasts. Feel free 
   <img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
   <br>
   
-
-
 
 <picture>
   <source
