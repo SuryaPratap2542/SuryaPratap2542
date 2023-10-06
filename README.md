@@ -1,4 +1,11 @@
-<h1 style="color: red;">Surya Pratap Singh</h1>
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Surya Pratap+and+Welcome+to+my+Profile!" alt="Hey, I'm Surya PRatap and Welcome to my Profile! animated typed out" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
 
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-teal?style=for-the-badge&logo=font-awesome&logoColor=white&link=https://yourportfolio.com/)](https://suryapratapsingh.netlify.app/#home)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)](https://www.linkedin.com/in/surya-pratap-singh-288bb4132/)
