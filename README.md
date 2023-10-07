@@ -36,9 +36,9 @@ I work with a variety of technologies and have expertise in:
 - UI/UX Design: Adobe XD, Figma
 - Video Editing: Filmora, Kinemaster
 
-## <h3> <strong> Languages, Frameworks, and Tools </strong></h3>
+## <strong> Languages, Frameworks, and Tools </strong>
 <img src="https://skillicons.dev/icons?i=py,java,django,react,vite,mysql,html,css,js,sass,bootstrap,tailwind,materialui,mongodb,git,github,githubactions,svg,eclipse,vscode,netlify,flm" alt="skills logos" /> <br> 
-## <h3> <strong> Planning to Learn </strong></h3>
+## <strong> Planning to Learn </strong>
 <img src="https://skillicons.dev/icons?i=angular,docker,express,flask,graphql,heroku,kotlin,kubernetes,linux,lua,pytorch,r,vue" alt="skills planning to learn logos">
 
 ## 🌟 Achievements
